@@ -35,15 +35,22 @@ header{
 .li1, .li3{
     position: relative;
     top: 24px;
+    color: white;
+}
+.li1{
+    margin-right: 4em;
 }
 .li2{
     position: relative;
     top: 10px;
-    padding-left: 2em;
-    padding-right: 2em;
+    text-decoration: none;
+    color: white;
+    right: 1.6em;
 }
 .li3{
     padding-right: 1em;
+    color: white;
+    text-decoration: none;
 }
 .home_icon{
     position: relative;
@@ -55,4 +62,40 @@ header{
     font-weight: bold;
     margin-top: 1.5em;
     font-size: 1.5em;
+}
+.img_pavlik{
+    width: 19em;
+    position: relative;
+    right: 2em;
+    top: 1em;
+}
+.main{
+    display: flex;
+}
+.text_main{
+    position: relative;
+    top: 2.4em;
+    text-align: justify;
+    padding: 0 0.6em;
+    right: 1em;
+    font-size: 17px;
+}
+.nav_buy{
+    position: relative;
+    top: 1em;
+    font-size: 2em;
+    background-color: #f0932a;
+    color: white;
+    height: 2em;
+    padding: auto;
+    margin: auto;
+    border-radius: 10px;
+}
+.text_buy{
+    position: relative;
+    top: 15px;
+    left: 7em;
+    text-decoration: none;
+    display: inline-block;
+    color: white;
 }
