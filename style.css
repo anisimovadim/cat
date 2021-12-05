@@ -39,6 +39,7 @@ header{
 }
 .li1{
     margin-right: 4em;
+    font-size: 20px;
 }
 .li2{
     position: relative;
@@ -46,11 +47,13 @@ header{
     text-decoration: none;
     color: white;
     right: 1.6em;
+    font-size: 20px;
 }
 .li3{
     padding-right: 1em;
     color: white;
     text-decoration: none;
+    font-size: 20px;
 }
 .home_icon{
     position: relative;
